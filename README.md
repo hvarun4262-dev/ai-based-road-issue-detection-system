@@ -2,7 +2,7 @@
 
 An intelligent community-driven web application that allows users to report road issues such as potholes and broken streetlights using **live GPS location, camera input, and AI-assisted severity analysis**.
 
-> **Impact:** This system enables faster, location-accurate road issue reporting to improve urban safety.
+Impact: This system enables faster, location-accurate road issue reporting to improve urban safety.
 
 
 ---
@@ -125,4 +125,5 @@ Google Maps API keys are required for map rendering.
 - Admin dashboard for authorities
 - Issue status tracking
 - Heatmap visualization of road issues
+
 
