@@ -99,9 +99,11 @@ Google Maps API keys are required for map rendering.
 - **Varun Reddy** – Full Stack Development, GPS & Camera Integration  
   GitHub: https://github.com/hvarun4262-dev
 
-- **D ASISH KETHAN** – Backend Development & API Integration  
+- **D ASISH KETHAN** – Backend Development & API Integration
+  GitHub: https://github.com/AsishKethan2006
 
 - **G CHETHAN SAI** – AI Logic, Problem Analysis & Documentation
+  GitHub: https://github.com/chethansai136-design
 
 
 ---
@@ -125,5 +127,6 @@ Google Maps API keys are required for map rendering.
 - Admin dashboard for authorities
 - Issue status tracking
 - Heatmap visualization of road issues
+
 
 
